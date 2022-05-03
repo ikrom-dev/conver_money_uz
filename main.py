@@ -26,4 +26,4 @@ def convert(summa, code):
         return None
 
 
-print(convert(1, '1'))
+print(convert(1, 'Usd'))
